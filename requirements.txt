@@ -17,7 +17,7 @@ pycodestyle==2.6.0
 pycryptodome==3.9.8
 pylint==2.5.3
 PyMuPDF==1.17.2
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 requests==2.24.0
 six==1.15.0
 sortedcontainers==2.2.2
